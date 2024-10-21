@@ -1,1 +1,2 @@
 # TuringMachineBinary
+pip install thinker
